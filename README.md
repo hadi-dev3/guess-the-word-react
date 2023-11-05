@@ -67,3 +67,26 @@ React Components:
 2- button --> thinking of our project, we only have one button thus it wont take any props
 
 for redirecting please use react router https://reactrouter.com/en/main
+
+###################################################################################
+
+TODO List Task:
+for this task, you will be using localStorage to keep track of your todo list array. you will start with an empty list. the todo item will be an object consist of the following:
+id:string (make it a random numeric string),
+task:string,
+completed : boolean,
+createdAt: Date
+
+(images will be shared with you on teams)
+
+1- start by creating the nav bar which has the below tabs:
+All: will show all the TODO items active and completed and their perspective UI
+Active: will only show the TODO items that are still in the active state (not completed)
+Completed: will only show the TODO items that are completed  currently, do not do anything but think about creating the nav bar and how to switch between the tabs and the logic inside each tab.
+
+2- We will create the textfield component and the Add button:
+
+- This component should be present on all 3 tabs and it should be ONE component only.
+- If the user clicked the button and the textfield is empty, show an error message and do not add change the TODO list array
+
+We will complete the rest once the above is done.
