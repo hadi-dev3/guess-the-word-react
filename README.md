@@ -82,7 +82,7 @@ createdAt: Date
 1- start by creating the nav bar which has the below tabs:
 All: will show all the TODO items active and completed and their perspective UI
 Active: will only show the TODO items that are still in the active state (not completed)
-Completed: will only show the TODO items that are completed  currently, do not do anything but think about creating the nav bar and how to switch between the tabs and the logic inside each tab.
+Completed: will only show the TODO items that are completed currently, do not do anything but think about creating the nav bar and how to switch between the tabs and the logic inside each tab.
 
 2- We will create the textfield component and the Add button:
 
