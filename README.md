@@ -72,8 +72,8 @@ for redirecting please use react router https://reactrouter.com/en/main
 
 TODO List Task:
 for this task, you will be using localStorage to keep track of your todo list array. you will start with an empty list. the todo item will be an object consist of the following:
-id:string (make it a random numeric string),
-task:string,
+taskId:string (make it a random numeric string),
+taskName:string,
 completed : boolean,
 createdAt: Date
 
